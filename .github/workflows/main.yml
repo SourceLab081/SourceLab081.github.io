@@ -38,7 +38,7 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('**/previews') }}-${{ hashFiles('**/requirements.txt') }}
 
       - name: Generate index
-        run: staticdirindex . --sitename="SourceLab081 SFOS Directory Listing" --baseurl="https://SourceLab081.github.io/"
+        run: staticdirindex . --sitename="SourceLab081 SFOS repo Directory Listing" --baseurl="https://SourceLab081.github.io/"
 
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3.7.3
