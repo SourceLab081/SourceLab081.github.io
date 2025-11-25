@@ -282,6 +282,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repo/repodata/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -311,6 +315,34 @@
   </url>
   <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repo/repodata/repomd.xml</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/28d62777b2a43c61a39bf32963eebd22b536e8d7d055a7757500c528f59ab512-primary.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/31ab5cc2f12996e287e40eb7733f5690c09cc1a7023d2d57a4c805c0000d99b1-primary.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/43d00ba5c9804d6aec069927211bfc2a8e5524d601534808ff1c797ca24ce65e-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/a040a1f8189217266e90e10b2e8e3eb25d12858a2608ae76f9d394e0e4aab08a-filelists.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/befe6db6c0f8bec1f9671bb551293fd48a387dbc17364142980872f889e3ad65-other.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/d9fb91fb05fe40e01676e34cd419f4c806ae54f3fd00df8798586136f10cd710-filelists.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.67/xiaomi-fog/aarch64/repodata/repomd.xml</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
