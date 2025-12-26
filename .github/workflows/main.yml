@@ -34,7 +34,7 @@ jobs:
           path: |
             previews
             ~/.cache/pip
-          # An explicit key for restoring and saving the  cache
+          # An explicit key for restoring and saving the cache
           key: ${{ runner.os }}-${{ hashFiles('**/previews') }}-${{ hashFiles('**/requirements.txt') }}
 
       - name: Generate index
