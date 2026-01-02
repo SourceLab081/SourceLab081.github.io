@@ -1694,7 +1694,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-bluez5-1-202601021648.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-bluez5-1-202601021723.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1702,7 +1710,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-flashing-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-kickstart-configuration-1-202601021648.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-kickstart-configuration-1-202601021723.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1710,7 +1726,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-policy-settings-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-preinit-plugin-1-202601021648.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-preinit-plugin-1-202601021723.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1718,11 +1742,23 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-pulseaudio-settings-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-sailfish-1-202601021648.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-sailfish-1-202601021723.noarch.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-ssu-kickstarts-1-202601021648.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/droid-config-fog-ssu-kickstarts-1-202601021723.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1910,11 +1946,23 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/patterns-sailfish-device-adaptation-fog-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-common-fog-1-202601021648.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-common-fog-1-202601021723.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-fog-1-202601021648.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.72_a13v1/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-fog-1-202601021723.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
