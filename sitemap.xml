@@ -2282,7 +2282,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/droid-hal-version-fog-0.0.1-202604260938.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202604260913.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202604260938.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -2522,11 +2530,35 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/4adb896d919a32ef7912fc4c23be66c36a9f343c610978025185059895d84fd6-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/6f953b8a95b3809923b3236fbce0a547c08e08ac65e81ebcda70a4b4f36be3fe-other.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/72cb0fd9ea7605e673fb922b3b7995c145ca22dfff52f253e6f0b5caaaf9c21e-filelists.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/8d6f57a4d6f6a130ee89158fa07b4c31a7007b09e40edba21cf11a08a33e261e-primary.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/8fc311e9ab36220bf6cd09400c8f1748425e1fc5f70a82ceea2e2cd3df3b46d8-primary.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/90c9703f93f63d3ddf261d672f2ca5dc412479f16cefbed7a799b16f4e1dcb7c-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/937ca206fe747fc077a850bb07dd0bc204907556e6c2604d65b6f8ad9df00330-other.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.0.0.77_a13/xiaomi-fog/aarch64/repodata/a53a4a72ce4ca9c505af55617e2145f8bd62566cb0dcdd732b24158c7d0fc6c9-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
