@@ -3854,39 +3854,39 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-bluez5-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-bluez5-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-flashing-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-flashing-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-kickstart-configuration-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-kickstart-configuration-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-policy-settings-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-policy-settings-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-preinit-plugin-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-preinit-plugin-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-pulseaudio-settings-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-pulseaudio-settings-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-sailfish-1-202606060702.noarch.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-sailfish-1-202606060914.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-ssu-kickstarts-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-config-fog-ssu-kickstarts-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -3938,11 +3938,11 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-hal-version-fog-0.0.1-202606060703.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-hal-version-fog-0.0.1-202606060915.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202606060703.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202606060915.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4066,15 +4066,47 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-adaptation-fog-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-adaptation-fog-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-common-fog-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-common-fog-1-202606060914.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-fog-1-202606060702.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/patterns-sailfish-device-configuration-fog-1-202606060914.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-14.2.94-1.4.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-common-14.2.94-1.4.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-debuginfo-14.2.94-1.4.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-debugsource-14.2.94-1.4.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-devel-14.2.94-1.4.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-hidl-1.5.1-1.10.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-hidl-debuginfo-1.5.1-1.10.1.bso.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/pulseaudio-modules-droid-hidl-debugsource-1.5.1-1.10.1.bso.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4114,27 +4146,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/159872e98d9ebd3c7afc5ec923cfe661ab1cd95c7e8bd996204f05a64f9a9496-primary.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/009424f576eb9983afc1ea4f980401d3add876204f93dc1cdd995f44d22ab127-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/2cd0e5088888fc9ac38da62ea5541590fafe9360ace11341e596c81bc1eba73d-other.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/0ae8754a642b3178de6cc21af352d65b6406cfa756241d206b6ffcb2f0aba722-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/489ba22a24bff9880d60d1ae277e229606775510b488c45fd8fb2970bf57040d-primary.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/21709bdc0433d70a6756f4d69e16d981025df29a97ec3f125f7c8422e2f8a649-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/4d20303e51355e056591594eed6358a0545d6bb8375bfc8b60b649560c61542c-filelists.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/9aab934a0b1e529b5db94a5c1068eb5a187fafd2f438ff37bda05dafd3f69dfc-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/940b6974410ddc96a1373d5dd8f94ca256c60a8a2e464854badc80386ec789fe-filelists.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/9dabcc696ba000926cd6d26c88b4124cd0cc6a1960b35a2303509482c6ac3d45-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/966480ac7449421bd4f1fe3ee25026e8aa180f5fe367a6e40661dbfa2857febc-other.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repo/repodata/d84f6bcc0625ada831b942b3d4d74fcf558893bccdc2ebb9172be099444bd2e1-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4142,27 +4174,27 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/11ac0804bb1791299e1f141705ce533559774e8917ebf9ca4b5c67add0844f9f-other.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/1aeb995e389213df5f2e2ab01d60535e80103fae6c12438c7dacf53b618bb08f-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/1ecefb4ffd63ffd232bba28b1cf8926ce3170aa1b7f7fce14d818af7f5f7aa87-primary.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/77adfcc51b825bcf8cd30b2218dce68878436bca5465ebd0ce38d3e8d645f346-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/618b2fe7711d877532eff3e70092292b95809aaf7a2573b90e8c70eda42c9bbf-filelists.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/79810f49518e33538040ec4e9eac3c3a6792bff34eb2fcccfa73e755538e0d07-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/7fd8f9c291ded06d99a0b30ae5fce5c14eff33abbd9d5dd4b21f22649151398f-other.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/7c66311440e386f22ab57018b6a9c62ff18093c330abc2e6896d980bfe7d76ec-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/d0bd63917c4f48dddf04791578a3987320880fddf27796789fa88c803927708a-primary.sqlite.bz2</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/c06de51fcbbc1eab1a8cf379bee2c199a4edb904276fa2321f04156e55c2e317-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/fd721718fd795655eb5cd582d3032c1d14a18fc226351b247656e5e1080b7a47-filelists.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.8_a13/xiaomi-fog/aarch64/repodata/c8a27ba3a2f7ecc907f64388adc1f30d12492e431737d47b18b388a3e0e30806-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
