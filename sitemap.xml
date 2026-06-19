@@ -4570,7 +4570,7 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-biometry-fp-1.1.1-202606171445.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-biometry-fp-1.1.1-202606192332.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4610,7 +4610,7 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-fake-crypt-1.1.1-202606171445.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-fake-crypt-1.1.1-202606192333.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4658,15 +4658,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hal-version-fog-0.0.1-202606192123.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hal-version-fog-0.0.1-202606192345.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202606192123.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hal-version-fog-doc-0.0.1-202606192345.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hwcrypt-1.0.0-202606171443.aarch64.rpm</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/droid-hwcrypt-1.0.0-202606192331.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -4854,19 +4854,43 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/690b9f1128785945fffcbe57dd923f3482bbfdba5d37dc747f701e45b7e7b813-primary.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/repodata/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/repodata/9013548ea0834406ee5e619da79863f7d70dcbf5d59fc2a854071137b1d66033-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/78f2ce9f8af402548b70353c3bf12cf41ccfbd778764cb03e603d813cad7a415-other.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/repodata/9ebab773f9808295931a5a920685b1c813bed313d61300a70be0feb249213cec-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/a2d80e9b07cf5d4fd2647ee43f3f6cd90c80c280599d83bdee41b33554479c1f-filelists.xml.gz</loc>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/repodata/e9fa59732b8d9618da0ead71868ff686525520538575830331788e6d60217709-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repo/repodata/repomd.xml</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/2cd8a289e62761edd740b6fe1d5f6456bf16ca981e8df9e10e0da52133a44090-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/d322dc06a06eb176eadbc0d2b1f1cec12f4013540a449a9373d3111abffea1a6-filelists.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://SourceLab081.github.io//repo/5.1.0.11_a13/xiaomi-fog/aarch64/repodata/fb71285be851dab54ff6d3b0fe3fa258e14be9e981715c1e488976620ae39499-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
