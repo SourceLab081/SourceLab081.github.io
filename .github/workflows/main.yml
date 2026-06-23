@@ -30,7 +30,7 @@ jobs:
       - name: Cache
         uses: actions/cache@v4
         with:
-          # A list of files, directories, and wildcard patterns to cache and restore
+          # A list of files, directories, and wildcard patterns to cache and restore.
           path: |
             previews
             ~/.cache/pip
